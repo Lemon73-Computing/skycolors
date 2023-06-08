@@ -1,10 +1,5 @@
 image:  microsoft/dotnet:7.0.302-sdk
 
-before_script:
-  - cd ./SkyColors
-  - dotnet restore
-  - cd ../
-  
 pages:
   stage: deploy
   script:
