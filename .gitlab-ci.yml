@@ -4,8 +4,7 @@ pages:
   stage: deploy
   script:
   - cd ./SkyColors
-  - cp -a -r ./output/wwwroot ../
-  - mv wwwroot public
+  - cp -a -r ./output/wwwroot ../public
   artifacts:
     paths:
     - public
