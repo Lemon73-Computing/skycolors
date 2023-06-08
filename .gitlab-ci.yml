@@ -9,7 +9,7 @@ pages:
   - mkdir public
   - cd ./SkyColors
   - dotnet publish -c Release -o output
-  - cp -a ./SkyColors/output/SkyColors/dist/* ./public
+  - cp -a ./SkyColors/output/wwwroot/* ./public
   artifacts:
     paths:
     - public
