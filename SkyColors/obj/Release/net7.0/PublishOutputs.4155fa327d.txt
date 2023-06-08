@@ -1,1 +1,4 @@
+/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/output/output/web.config
+/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/output/output/wwwroot/sample-data/weather.json
+/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/output/output/wwwroot/_framework/blazor.boot.json
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/output/web.config
