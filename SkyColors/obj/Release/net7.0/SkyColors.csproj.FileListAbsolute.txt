@@ -826,6 +826,3 @@
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/refint/SkyColors.dll
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/SkyColors.pdb
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/ref/SkyColors.dll
-/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/bin/Release/net7.0/output/web.config
-/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/bin/Release/net7.0/output/wwwroot/sample-data/weather.json
-/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/bin/Release/net7.0/output/wwwroot/_framework/blazor.boot.json
