@@ -3,9 +3,9 @@ image:  microsoft/dotnet:7.0.302-sdk
 pages:
   stage: deploy
   script:
-  - mkdir public
   - cd ./SkyColors
-  - cp -a ./output/wwwroot/* ../public
+  - cp -a -r ./output/wwwroot ../
+  - mv wwwroot public
   artifacts:
     paths:
     - public
