@@ -7,6 +7,7 @@ pages:
   stage: deploy
   script:
   - mkdir public
+  - cd ./SkyColors
   - dotnet publish -c Release -o output
   - cp -a ./SkyColors/output/SkyColors/dist/* ./public
   artifacts:
