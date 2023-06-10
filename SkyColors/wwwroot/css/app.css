@@ -102,5 +102,6 @@ a, .btn-link {
 
 /*セルフ追加*/
 ::selection{
-    background-color: rgba(0, 0, 0, .45);
+    color: rgba(255, 255, 255, .45);
+    background-color: rgba(24, 12, 12, .60);
 }
