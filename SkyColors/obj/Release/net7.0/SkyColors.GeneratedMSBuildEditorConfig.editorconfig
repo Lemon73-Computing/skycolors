@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = SkyColors
 build_property.RootNamespace = SkyColors
-build_property.ProjectDir = /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/
+build_property.ProjectDir = /mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /mnt/i/3_save/23save_github-desktop/skycolors/skycolors
+build_property.MSBuildProjectDirectory = /mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors
 build_property._RazorSourceGeneratorDebug = 
 
-[/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/App.razor]
+[/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/Pages/Counter.razor]
+[/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/Pages/FetchData.razor]
+[/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/Pages/Index.razor]
+[/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/Shared/SurveyPrompt.razor]
+[/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/_Imports.razor]
+[/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/Shared/MainLayout.razor]
+[/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-yvaof4de6n
 
-[/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/Shared/NavMenu.razor]
+[/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-4tqyme0aoa

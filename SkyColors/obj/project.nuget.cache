@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ANw4rQ0+CDfB/IT9BFwuU1N3BcnwdUA3pF8NvbeWiVw1mmZa/ZIbGOMx2FmEJ/6CZigJbGZiJWl4SmSrtArpjA==",
+  "dgSpecHash": "2VBBBdGjiXDvNKtqRBxhvnRyDewKiyJfHkLci/NOU3rBpdtaixQGbo/BZSlDp2MdEJA0NtFz8lEx/ZycVUKnpw==",
   "success": true,
-  "projectFilePath": "/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/SkyColors.csproj",
+  "projectFilePath": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/SkyColors.csproj",
   "expectedPackageFiles": [
     "/home/lemon73/.nuget/packages/microsoft.aspnetcore.authorization/7.0.5/microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
     "/home/lemon73/.nuget/packages/microsoft.aspnetcore.components/7.0.5/microsoft.aspnetcore.components.7.0.5.nupkg.sha512",

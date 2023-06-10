@@ -1806,11 +1806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/SkyColors.csproj",
+      "projectUniqueName": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/SkyColors.csproj",
       "projectName": "SkyColors",
-      "projectPath": "/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/SkyColors.csproj",
+      "projectPath": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/SkyColors.csproj",
       "packagesPath": "/home/lemon73/.nuget/packages/",
-      "outputPath": "/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/",
+      "outputPath": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lemon73/.nuget/NuGet/NuGet.Config"

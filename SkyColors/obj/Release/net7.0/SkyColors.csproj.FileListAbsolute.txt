@@ -806,8 +806,6 @@
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/build-gz/g6CNFQII.gz
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/build-gz/Y5ZKkHp5.gz
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/build-gz/hZg+lMHl.gz
-/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/build-gz/zhp99+Iw.gz
-/mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/build-gz/pgkWbo9J.gz
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/build-gz/AgcVBswb.gz
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/blazor.boot.json
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/staticwebassets/msbuild.SkyColors.Microsoft.AspNetCore.StaticWebAssets.props
@@ -826,3 +824,5 @@
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/refint/SkyColors.dll
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/SkyColors.pdb
 /mnt/i/3_save/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/ref/SkyColors.dll
+/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/obj/Release/net7.0/build-gz/eqwLe0au.gz
+/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/obj/Release/net7.0/build-gz/WJtf+5Up.gz
