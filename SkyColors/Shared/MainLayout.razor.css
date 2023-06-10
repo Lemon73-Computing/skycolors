@@ -4,6 +4,12 @@
     flex-direction: column;
 }
 
+/*追加*/
+html{
+    background-color: #ebebeb;
+}
+/*追加ここまで*/
+
 main {
     flex: 1;
     /*追加*/
