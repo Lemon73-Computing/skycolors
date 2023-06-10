@@ -6,6 +6,8 @@
 
 main[b-yvaof4de6n] {
     flex: 1;
+    /*追加*/
+    background-color: #ebebeb;
 }
 
 .sidebar[b-yvaof4de6n] {
@@ -13,7 +15,7 @@ main[b-yvaof4de6n] {
 }
 
 .top-row[b-yvaof4de6n] {
-    background-color: #f7f7f7;
+    background-color: #f4f4f4;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;
