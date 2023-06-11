@@ -2,6 +2,7 @@
 
 html, body {
     font-family: "游明朝", "ヒラギノ明朝 ProN", serif;
+    background-color: #ebebeb;
 }
 
 h1:focus {

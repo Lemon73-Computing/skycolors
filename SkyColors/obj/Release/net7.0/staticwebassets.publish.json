@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p6qOqU3TTj4lKZtufBo1aLGU/0yTe2BKZI2k9hsG/jY=",
+  "Hash": "Rbcy+JXiApZPrpUn7hIsBPkiOwDlUZNvJBHJqiqR0Y4=",
   "Source": "SkyColors",
   "BasePath": "/",
   "Mode": "Root",
@@ -1953,6 +1953,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/obj/Release/net7.0/wasm/for-publish/dotnet.wasm"
+    },
+    {
+      "Identity": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/wwwroot/404.html",
+      "SourceId": "SkyColors",
+      "SourceType": "Discovered",
+      "ContentRoot": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "404.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/404.html"
     },
     {
       "Identity": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/wwwroot/css/app.css",
