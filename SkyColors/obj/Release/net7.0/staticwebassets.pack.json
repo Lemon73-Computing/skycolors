@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/SkyColors.styles.css"
     },
     {
+      "Id": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/wwwroot/404.html",
+      "PackagePath": "staticwebassets/404.html"
+    },
+    {
       "Id": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
