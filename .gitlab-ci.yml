@@ -1,4 +1,4 @@
-image:  microsoft/dotnet:7.0.302-sdk
+image:  mcr.microsoft.com/dotnet/sdk:7.0
 
 pages:
   stage: deploy
