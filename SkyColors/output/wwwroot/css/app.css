@@ -203,7 +203,7 @@ a, .btn-link {
     }
 
         .loading-progress circle:last-child {
-            stroke: #e8e8e8;
+            stroke: #281414;
             stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
             transition: stroke-dasharray 0.05s ease-in-out;
         }
