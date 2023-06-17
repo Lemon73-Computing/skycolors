@@ -7,8 +7,18 @@
 
 main[b-yvaof4de6n] {
     flex: 1;
-    /*追加*/
-    background-color: #ebebeb;
+}
+
+/*追加*/
+@media (prefers-color-scheme: light){
+    main[b-yvaof4de6n] {
+        background-color: #ebebeb;
+    }   
+}
+@media (prefers-color-scheme: dark){
+    main[b-yvaof4de6n] {
+        background-color: #2f2f2f;
+    }
 }
 
 .sidebar[b-yvaof4de6n] {
@@ -16,12 +26,23 @@ main[b-yvaof4de6n] {
 }
 
 .top-row[b-yvaof4de6n] {
-    background-color: #f4f4f4;
     /*border-bottom: 1px solid #d6d5d5;*/
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;
     align-items: center;
+}
+
+/*ライトモード+ダークモード*/
+@media (prefers-color-scheme: light){
+    .top-row[b-yvaof4de6n] {
+        background-color: #f4f4f4;
+    }
+}
+@media (prefers-color-scheme: dark){
+    .top-row[b-yvaof4de6n] {
+        background-color: #453b3b;
+    }
 }
 
     .top-row[b-yvaof4de6n]  a, .top-row[b-yvaof4de6n]  .btn-link {
@@ -83,8 +104,16 @@ main[b-yvaof4de6n] {
     }
 }
 /* /Shared/NavMenu.razor.rz.scp.css */
+@media (prefers-color-scheme: light){
 .navbar-toggler[b-4tqyme0aoa] {
     background-color: rgba(255, 255, 255, 0.1);
+}
+}
+/*追加*/
+@media (prefers-color-scheme: dark){
+.navbar-toggler[b-4tqyme0aoa] {
+    background-color: rgba(0, 0, 0, 0.1);
+}
 }
 
 .top-row[b-4tqyme0aoa] {

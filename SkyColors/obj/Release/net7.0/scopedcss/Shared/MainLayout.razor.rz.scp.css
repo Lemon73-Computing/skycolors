@@ -6,8 +6,18 @@
 
 main[b-yvaof4de6n] {
     flex: 1;
-    /*追加*/
-    background-color: #ebebeb;
+}
+
+/*追加*/
+@media (prefers-color-scheme: light){
+    main[b-yvaof4de6n] {
+        background-color: #ebebeb;
+    }   
+}
+@media (prefers-color-scheme: dark){
+    main[b-yvaof4de6n] {
+        background-color: #2f2f2f;
+    }
 }
 
 .sidebar[b-yvaof4de6n] {
@@ -15,12 +25,23 @@ main[b-yvaof4de6n] {
 }
 
 .top-row[b-yvaof4de6n] {
-    background-color: #f4f4f4;
     /*border-bottom: 1px solid #d6d5d5;*/
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;
     align-items: center;
+}
+
+/*ライトモード+ダークモード*/
+@media (prefers-color-scheme: light){
+    .top-row[b-yvaof4de6n] {
+        background-color: #f4f4f4;
+    }
+}
+@media (prefers-color-scheme: dark){
+    .top-row[b-yvaof4de6n] {
+        background-color: #453b3b;
+    }
 }
 
     .top-row[b-yvaof4de6n]  a, .top-row[b-yvaof4de6n]  .btn-link {
