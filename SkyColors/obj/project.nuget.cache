@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2VBBBdGjiXDvNKtqRBxhvnRyDewKiyJfHkLci/NOU3rBpdtaixQGbo/BZSlDp2MdEJA0NtFz8lEx/ZycVUKnpw==",
+  "dgSpecHash": "urjaFwvSFVV0Bo6ufaQVSCQzS9IBYdexmqUy9ZNU965mV1OUhdEcdfNk1flHEvUqZi1LwThGep4L/iRJjI/VkA==",
   "success": true,
   "projectFilePath": "/mnt/i/3_Save/23Save_GitHub-DeskTop/skycolors/SkyColors/SkyColors.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,8 @@
     "/home/lemon73/.nuget/packages/microsoft.jsinterop.webassembly/7.0.5/microsoft.jsinterop.webassembly.7.0.5.nupkg.sha512",
     "/home/lemon73/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/home/lemon73/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/home/lemon73/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+    "/home/lemon73/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/home/lemon73/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.7/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.7.nupkg.sha512"
   ],
   "logs": []
 }
