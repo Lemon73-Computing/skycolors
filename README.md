@@ -23,6 +23,13 @@ dotnet watch run --pathbase=/skycolors
 をコマンドラインで実行し、好みのブラウザで```http://localhost:5204/skycolors```にアクセスすると利用できます。<br />
 (前提条件としてdotnetのインストールが必要です。)<br />
 詳しくはMicrosoft公式のBlazor wasmのページなどをご覧ください。
+<details>
+<summary>ページ更新方法</summary>
+・bin/obj/outputディレクトリをすべて削除<br />
+・コマンドラインでdotnet publish -c Release -o outputを実行<br />
+・(gitlab-runner registerでCI/CDを設定し、gitlab-runner runで接続)<br />
+・コミットし、プルする<br />
+</details>
 
 ## 利用方法
 [リンク](https://lemon73.gitlab.io/skycolors)にアクセスすることで、そのままWebで利用できます。<br />
