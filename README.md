@@ -6,26 +6,26 @@
 NEO-SkyColors
 
 ## 説明
-こちらのソフトウェアは、GitHubで公開しているN-SCF(Web版)を再作成し、GitLab Pagesで公開できるように調節したものです。
+こちらのソフトウェアは、旧自作サイトで公開していたN-SCF(Web版)を再作成し、GitLab Pagesで公開できるように調節したものです。
 
 ## バッジ
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
 ## 外観
-デザインに関しては、メインサイト側と同様のUIにしています。<br />
+UIデザインやカラーリングに関しては、メインサイト側と同様にしています。<br />
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
 ## インストール方法
-開発者の方は、こちらのファイルをダウンロードして、こちらのファイル内で
+開発者の方は、こちらのファイルをダウンロードして、```SkyColors```のファイル内で
 ```
-dotnet watch run
+dotnet watch run --pathbase=/skycolors
 ```
-をコマンド実行するとlocalhostで利用できます。<br />
-(Dockerを利用しないとおそらくエラーになります。)<br />
+をコマンドラインで実行し、好みのブラウザで```http://localhost:5204/skycolors```にアクセスすると利用できます。<br />
+(前提条件としてdotnetのインストールが必要です。)<br />
 詳しくはMicrosoft公式のBlazor wasmのページなどをご覧ください。
 
 ## 利用方法
-リンクにアクセスすることで、そのままWebで利用できます。<br />
+[リンク](https://lemon73.gitlab.io/skycolors)にアクセスすることで、そのままWebで利用できます。<br />
 (現時点ではメイン機能であるランダムカラー機能が搭載されていないので、詳しい利用方法については省略します。)
 
 ## サポート
@@ -51,7 +51,7 @@ You can also document commands to lint the code or run tests. These steps help t
 C#やBlazorの開発関係者、UI部分のBootstrap開発関係者、またそれらの情報提供者、その他開発に関係した多くの人に感謝の意を示します。
 
 ## ライセンス
-プログラム:GPLv3<br />
+プログラム:GPL v3<br />
 緩和する可能性もあります。
 
 ## プロジェクトの状態
