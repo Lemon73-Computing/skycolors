@@ -104,16 +104,8 @@ main[b-yvaof4de6n] {
     }
 }
 /* /Shared/NavMenu.razor.rz.scp.css */
-@media (prefers-color-scheme: light){
 .navbar-toggler[b-4tqyme0aoa] {
     background-color: rgba(255, 255, 255, 0.1);
-}
-}
-/*追加*/
-@media (prefers-color-scheme: dark){
-.navbar-toggler[b-4tqyme0aoa] {
-    background-color: rgba(0, 0, 0, 0.1);
-}
 }
 
 .top-row[b-4tqyme0aoa] {
@@ -162,23 +154,12 @@ main[b-yvaof4de6n] {
     color: white;
 }
 
-@media (prefers-color-scheme: light){
-    .nav-item[b-4tqyme0aoa]  a.active {
-        background-color: rgba(255,255,255,0.25);
-    }
-    
-    .nav-item[b-4tqyme0aoa]  a:hover {
-        background-color: rgba(255,255,255,0.1);
-    }
+.nav-item[b-4tqyme0aoa]  a.active {
+    background-color: rgba(255,255,255,0.25);
 }
-@media (prefers-color-scheme: dark){
-    .nav-item[b-4tqyme0aoa]  a.active {
-        background-color: rgba(0,0,0,0.25);
-    }
-    
-    .nav-item[b-4tqyme0aoa]  a:hover {
-        background-color: rgba(0,0,0,0.1);
-    }
+
+.nav-item[b-4tqyme0aoa]  a:hover {
+    background-color: rgba(255,255,255,0.1);
 }
 
 @media (min-width: 641px) {
