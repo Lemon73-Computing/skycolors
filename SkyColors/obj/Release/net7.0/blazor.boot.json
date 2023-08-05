@@ -198,13 +198,13 @@
       "mscorlib.dll": "sha256-t1RT9mknsQ54H+sVa1vtMhjv3D8ZjiAGoLzHvuIObPw=",
       "netstandard.dll": "sha256-5SHKPh1PcuJjq4lIo7ymdIyhb9d3++oMAjr46auhUSc=",
       "System.Private.CoreLib.dll": "sha256-eH+XIsCUG5oZ0k8AIzNtRLTCLiV\/8Zv0RFCPMsIkdYY=",
-      "SkyColors.dll": "sha256-FmTpEsl5XetJSbwVubKkJP3J8gTXeGzCnxk8Nxo812g="
+      "SkyColors.dll": "sha256-RH1wvnMtatHw6RcP76DbfRiiszABYyEnEjIOPVbCsj8="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SkyColors.pdb": "sha256-6MG362ljyOpzXkXmwqnNd3OXyJD+O3X1k6YFAqw6qlM="
+      "SkyColors.pdb": "sha256-+71pZlXEzJ56vNU4bQbT5yEITM7u9t4ofubzS4RO3gg="
     },
     "runtime": {
       "dotnet.7.0.9.x082dbysr4.js": "sha256-dUIY5Mz0ozZWqtTfBb7ArJKbdh5IIp8BXeq6UjK4u\/c=",

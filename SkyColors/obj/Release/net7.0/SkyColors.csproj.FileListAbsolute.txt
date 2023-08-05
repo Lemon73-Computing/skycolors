@@ -806,8 +806,6 @@
 /mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/build-gz/POLfLFkN.gz
 /mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/build-gz/RDxfMUtQ.gz
 /mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/build-gz/lCWtfbvq.gz
-/mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/build-gz/wD+irk2L.gz
-/mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/build-gz/u5IOqREe.gz
 /mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/build-gz/AgcVBswb.gz
 /mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/blazor.boot.json
 /mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/staticwebassets/msbuild.SkyColors.Microsoft.AspNetCore.StaticWebAssets.props
@@ -826,3 +824,12 @@
 /mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/refint/SkyColors.dll
 /mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/SkyColors.pdb
 /mnt/i/2_Material/23Save_GitHub-Desktop/skycolors/SKYCOLORS/obj/Release/net7.0/ref/SkyColors.dll
+/mnt/i/2_Material/23save_github-desktop/skycolors/skycolors/bin/Release/net7.0/wwwroot/service-worker-assets.js
+/mnt/i/2_Material/23save_github-desktop/skycolors/skycolors/bin/Release/net7.0/wwwroot/service-worker.js
+/mnt/i/2_Material/23save_github-desktop/skycolors/skycolors/bin/Release/net7.0/output/web.config
+/mnt/i/2_Material/23save_github-desktop/skycolors/skycolors/bin/Release/net7.0/output/wwwroot/sample-data/weather.json
+/mnt/i/2_Material/23save_github-desktop/skycolors/skycolors/bin/Release/net7.0/output/wwwroot/_framework/blazor.boot.json
+/mnt/i/2_Material/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/build-gz/q8w0dfLw.gz
+/mnt/i/2_Material/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/build-gz/12csoCxL.gz
+/mnt/i/2_Material/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/service-worker/service-worker.js
+/mnt/i/2_Material/23save_github-desktop/skycolors/skycolors/obj/Release/net7.0/service-worker-assets.js.build
