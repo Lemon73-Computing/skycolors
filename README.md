@@ -25,8 +25,6 @@ dotnet watch run --pathbase=/skycolors
 詳しくはMicrosoft公式のBlazor wasmのページなどをご覧ください。
 <details>
 <summary>ページ更新方法</summary>
-・bin/obj/outputディレクトリをすべて削除<br />
-・コマンドラインでdotnet publish -c Release -o outputを実行<br />
 ・(gitlab-runner registerでCI/CDを設定し、gitlab-runner runで接続)<br />
 ・コミットし、プルする<br />
 </details>
