@@ -1,11 +1,21 @@
-image:  mcr.microsoft.com/dotnet/sdk:7.0
+name: Build and deploy to Gitlab Pages
 
-pages:
-  stage: deploy
-  script:
-  - cp -a -r ./SkyColors/output/wwwroot ./public
-  artifacts:
-    paths:
-    - public
-  only:
-  - main
+on: [push]
+
+jobs:
+  build:
+    name: build using
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: 7.0.400
+    
+      - name: Build with dotnet
+        run: dotnet build -c Release -o output
+      
+      - name: deploy to Gitlab Pages
+        run: cp -a -r ./SkyColors/output/wwwroot ./public
